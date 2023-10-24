@@ -1,0 +1,23 @@
+body{
+
+    background-color: rgb(104, 103, 103); 
+    color: white;
+
+}
+
+.titulo {
+    font-family: monospace;
+    color: black;
+}
+
+.subtitulo {
+    font-family: monospace;
+}
+
+.fotocidade{
+display: flex;
+}
+
+.texto{
+    font-size: x-large;
+}
